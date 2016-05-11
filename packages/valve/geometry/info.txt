@@ -186,6 +186,17 @@
 	"File"  "track_single.vmf"
 	}
 	
+"BrushTemplate"
+	{
+	"ID"    "BEE2_TRACK_PLAT_TOP_LARGE"
+	"File"  "track_top_large.vmf"
+	}
+"BrushTemplate"
+	{
+	"ID"    "BEE2_TRACK_PLAT_BOTTOM_LARGE"
+	"File"  "track_bottom_large.vmf"
+	}
+	
 "Item"
 	{
 	"ID" "ITEM_PISTON_PLATFORM"
