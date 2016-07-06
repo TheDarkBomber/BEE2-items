@@ -189,6 +189,7 @@
 "Item"
 	{
 	"ID" "ITEM_PISTON_PLATFORM"
+	"All_conf" "piston.cfg"
 	"Description"
 		{
 		"" "A large glass platform mounted on a piston that can move in and out."
@@ -203,5 +204,14 @@
 			{
 			"BEE2_CLEAN"	"piston_plat"
 			}
+		}
+	}
+	
+"PackList"
+	{
+	"ID" "PACK_PISTON_PLAT_MOVEMENT"
+	"Config"
+		{
+		"File" "scripts/vscripts/BEE2/piston_fizzler.nut"
 		}
 	}
