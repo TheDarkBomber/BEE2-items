@@ -1,6 +1,6 @@
 "ID"		"PHYS_SHIELD"
-"Name"		"Physics Shield"
-"Desc"      "The Physics Shield blocks all physics items like cubes."	
+"Name"		"Physics Repulsion Field"
+"Desc"      "The Physics Repulsion Field blocks all physics items like cubes."	
 
 "Item"
 	{
@@ -8,8 +8,8 @@
 	"Description"
 		{
 		"" "A custom fizzler created by Felix Griffin.  "
-		"" "Physics Shields block physics items, like cubes, but not the player."
-           "" "Other names: Physler, Physics Repulsion Field."
+		"" "Physics Repulsion FIelds block physics items, like cubes, but not the player. "
+           "" "This is also known as the Physics Shield or Physler."
 		}
 	"Version"
 		{
