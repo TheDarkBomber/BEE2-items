@@ -7,14 +7,14 @@
 			"SubTypeProperty" "HazardType"
 			"SubType"
 				{
-				"Name" "Physics Shield"
+				"Name" "Physics Repulsion Field"
 				"Model"
 					{
 					"ModelName" "laserfield.3ds"
 					}
 				"Palette"
 					{
-					"Tooltip" "PHYSICS SHIELD"
+					"Tooltip" "PHYSICS REPULSION FIELD"
 					"Image" "palette/phys_shield/phys_shield.png"
 					"Position" "1 6 0"
 					}
