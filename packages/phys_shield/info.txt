@@ -8,8 +8,8 @@
 	"Description"
 		{
 		"" "A custom fizzler created by Felix Griffin.  "
-		"" "Physics Repulsion FIelds block physics items, like cubes, but not the player. "
-           "" "This is also known as the Physics Shield or Physler."
+		"" "Physics Repulsion Fields block physics items, like cubes, but not the player. "
+                "" "This is also known as the Physics Shield or Physler."
 		}
 	"Version"
 		{
