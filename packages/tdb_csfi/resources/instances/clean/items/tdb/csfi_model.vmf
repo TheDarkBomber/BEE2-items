@@ -231,7 +231,7 @@ entity
 	"pressuredelay" "0"
 	"RandomAnimation" "0"
 	"renderamt" "255"
-	"rendercolor" "128 128 0"
+	"rendercolor" "255 224 250"
 	"renderfx" "0"
 	"rendermode" "0"
 	"SetBodyGroup" "0"
