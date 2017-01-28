@@ -15,7 +15,7 @@
 				"Palette"
 					{
 					"Tooltip" "CLOSED SOLID FIELD"
-					"Image" "palette/tdb/csfi.png"
+					"Image" "palette/clean/tdb/tdb_csfi.png"
 					"Position" "1 6 0"
 					}
 				"Sounds"
