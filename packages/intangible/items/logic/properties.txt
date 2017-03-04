@@ -1,0 +1,17 @@
+"Properties"
+	{
+	"Authors"		"TheDarkBomber"
+	"Tags"			"TheDarkBomber;Geometry"
+	"Ent_count"		"0"
+	"Description"	
+		{
+		"" "The Intangible Scaffold can allow items to float in mid-air. "
+		"" "Items can only float if they can anchor on barriers. "
+		"" ""
+		"" "This would be useful for placing Vactubes and Catwalks."
+		}
+	"Icon"
+		{
+			"0"		"logic/glass_in.png"
+		}
+	}

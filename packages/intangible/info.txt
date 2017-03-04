@@ -1,0 +1,16 @@
+"ID"		"TDB_INTANGIBLE"
+"Name"		"Intangible Scaffold"
+"Desc"      "An item that will allow floating items if they can anchor on barriers."
+
+"Item"
+	{
+	"ID" "ITEM_TDB_INTANGIBLE_SCAFFOLD"
+	"Unstyled"	"1"
+	"Version"
+		{
+		"Styles"
+			{
+			"<LOGIC>"	"logic"
+			}
+		}
+	}
