@@ -6,7 +6,7 @@ My contributions of items and styles to BEE2.4.
 
 ### Current Projects
 
-* Blue Portals Items and Style - Adds the items and style from the Blue Portals mod for Portal 1. Currently on hold until we get permission to use the BP stuff.
+*No projects are currently in progress.*
 
 ### Finished Projects
 
@@ -14,4 +14,4 @@ My contributions of items and styles to BEE2.4.
 
 ### Cancelled Projects
 
-*No projects have been cancelled yet.*
+* Blue Portals Items and Style - Adds the items and style from the Blue Portals mod for Portal 1. This wasn't actually cancelled, but was moved to the [``blue_portals`` branch](https://github.com/BEEmod/BEE2-items/tree/blue_portals) on the main BEE2-items repro.
